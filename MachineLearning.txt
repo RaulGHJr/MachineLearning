@@ -1,0 +1,4 @@
+Cocktail Problem:
+    Two Speakers and two microphones. 
+    The microphones are placed at different distances from the speakers
+    The 'conversation' that the speakers are having is recorded.
